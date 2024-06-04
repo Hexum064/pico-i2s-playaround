@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "PICO"
+    ],
+    "files.associations": {
+        "irq.h": "c",
+        "string_view": "c",
+        "gpio.h": "c"
+    }
+}
